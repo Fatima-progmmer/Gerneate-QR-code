@@ -1,11 +1,7 @@
 # 📱 QR Code Generator  
 
 A simple **QR Code Generator** that allows users to convert text or URLs into scannable QR codes instantly! 🚀  
-
-## 🎯 Features  
-✔️ Generate QR codes for any text or URL  
-✔️ Download QR codes as images 📷  
-✔️ Responsive and user-friendly UI  
+ 
 
 ## 🛠️ Technologies Used  
 - **HTML**  
